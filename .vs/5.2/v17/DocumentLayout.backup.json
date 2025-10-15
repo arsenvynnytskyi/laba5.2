@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\5.2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE4D2483-349D-9EC3-9957-A15C478D458A}|..\\UnitTest5.2\\UnitTest5.2.vcxproj|D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\UnitTest5.2\\UnitTest5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F30470DD-F3C8-4043-9111-156171DF9578}|5.2.vcxproj|D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\5.2\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F30470DD-F3C8-4043-9111-156171DF9578}|5.2.vcxproj|solutionrelative:5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +26,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest5.2.cpp",
+              "DocumentMoniker": "D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\UnitTest5.2\\UnitTest5.2.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest5.2\\UnitTest5.2.cpp",
+              "ToolTip": "D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\UnitTest5.2\\UnitTest5.2.cpp*",
+              "RelativeToolTip": "..\\UnitTest5.2\\UnitTest5.2.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T05:59:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "5.2.cpp",
               "DocumentMoniker": "D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\5.2\\5.2.cpp",
               "RelativeDocumentMoniker": "5.2.cpp",
-              "ToolTip": "D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\5.2\\5.2.cpp*",
-              "RelativeToolTip": "5.2.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
+              "ToolTip": "D:\\\u041A\u043E\u0434\u0438\\\u0410\u041F\\5.2\\5.2.cpp",
+              "RelativeToolTip": "5.2.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwDUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-08T18:29:13.866Z",
               "EditorCaption": ""
